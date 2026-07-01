@@ -1,0 +1,72 @@
+canonical_identifier: bkk:krp/KR6e0138/v1
+canonical_location: https://kanripo.org/bkk/KR6e0138/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 辨非集
+  identifiers:
+    alt_id:
+    - X58n1019
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1019.xml
+    old_id: X58n1019
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0138_000.yaml, hash: 'sha256:aa9b0b5d8eb420ed4a4cfd986c894b9662d3d9e1c21246c90ef1ff795d277501'}
+  - {seq: 1, filename: KR6e0138_001.yaml, hash: 'sha256:8bddfbc5c5c4b223b3acd2956ed425251d3f40510aaa97e490d1c5e3debbf142'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0138_001.markers.yaml, hash: 'sha256:9ff4cf9e7be2a7797b8234a4a6a91e0f9e3391ee3bab90ad14117badf328fe63'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0138_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6705
+  label: 辨非集
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0138_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0138_X_001-mulu-2
+    span:
+    - body
+    - 104
+    - 104
+  label: 金剛通論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0138_X_001-mulu-3
+    span:
+    - body
+    - 3241
+    - 3241
+  label: 金剛事苑
+  type: mulu
+  level: 1
+hash: sha256:392f5436187d54be57000c82a08a26dd8191c6bad5aacfd87dc4fcc137084f10
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

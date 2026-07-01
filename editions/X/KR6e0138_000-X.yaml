@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0138/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 辨非集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1019.xml
+    old_id: X58n1019
+hash: sha256:aa9b0b5d8eb420ed4a4cfd986c894b9662d3d9e1c21246c90ef1ff795d277501
