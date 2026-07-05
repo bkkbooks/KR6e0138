@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0138_000.yaml, hash: 'sha256:aa9b0b5d8eb420ed4a4cfd986c894b9662d3d9e1c21246c90ef1ff795d277501'}
-  - {seq: 1, filename: KR6e0138_001.yaml, hash: 'sha256:8bddfbc5c5c4b223b3acd2956ed425251d3f40510aaa97e490d1c5e3debbf142'}
+  - {seq: 1, filename: KR6e0138_001.yaml, hash: 'sha256:6bfc51be0ebb65c789c2b30bfeb89f374d55bf9231492bf81bc7ee9af2bf04b9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0138_001.markers.yaml, hash: 'sha256:9ff4cf9e7be2a7797b8234a4a6a91e0f9e3391ee3bab90ad14117badf328fe63'}
+  - {seq: 0, role: markers, filename: assets/KR6e0138_000.markers.yaml, hash: 'sha256:cb9e710e5d4760b57b98d49344dc02909c13ed03f94adc38ff68194d4edf287a'}
+  - {seq: 1, role: markers, filename: assets/KR6e0138_001.markers.yaml, hash: 'sha256:9190dfca8b5adeccc43913bc5cee39474dcc3039c91b2d59ed0722a78bb50420'}
 table_of_contents:
 - ref:
     seq: 1
@@ -66,7 +67,4 @@ table_of_contents:
   label: 金剛事苑
   type: mulu
   level: 1
-hash: sha256:392f5436187d54be57000c82a08a26dd8191c6bad5aacfd87dc4fcc137084f10
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:257a4d040095f00ba1f90922262d08590fb80f2836bd3f07227a9b91d42051d4
